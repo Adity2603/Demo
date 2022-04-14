@@ -1,9 +1,9 @@
 Git log -p
 Git lop --stat
-Git log pretty=short
-Git log pretty=oneline
-Git log pretty=full
+Git log --pretty=short
+Git log --pretty=oneline
+Git log --pretty=full
 Git log since=2.days
 Git log since=2.weeks/months/years
-Git log pretty=format:"%h -- %an "
+Git log --pretty=format:"%h -- %an "
 (This will show the commiter name and their hash codes you can see from git documentation website)
