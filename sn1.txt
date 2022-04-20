@@ -1,0 +1,5 @@
+To Create 
+Git init
+
+To check status 
+Git status
