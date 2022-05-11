@@ -12,3 +12,8 @@ Git log --pretty=format:"%h -- %an "
 
 
 Git push -u origin master (To push the repo. Into git hub)
+
+To unstage the file ---> git restore --staged (file name for specific)
+
+To create the shortcut ---> git config --global alias.st 'status'
+		       ---> git config --global alias.unstage 'restore --staged--' 
