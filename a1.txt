@@ -8,3 +8,7 @@ Git log --since=2.days
 Git log --since=2.weeks/months/years
 Git log --pretty=format:"%h -- %an "
 (This will show the commiter name and their hash codes you can see from git documentation website)
+**************************************************
+
+
+Git push -u origin master (To push the repo. Into git hub)
